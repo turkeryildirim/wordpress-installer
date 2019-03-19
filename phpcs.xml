@@ -18,6 +18,7 @@
   <!-- Show sniff codes in all reports -->
   <arg value="s"/>
 
-  <!-- Use PSR-2 as a base -->
   <rule ref="WordPress"/>
+  <config name="testVersion" value="7.0-"/>
+  <rule ref="PHPCompatibility"/>
 </ruleset>
