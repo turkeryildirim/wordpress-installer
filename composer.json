@@ -1,5 +1,5 @@
 {
-    "name": "turker/wordpress-installer",
+    "name": "turkeryildirim/wordpress-installer",
     "description": "Composer Based Installer for WordPress",
     "type": "package",
     "license": "MIT",
